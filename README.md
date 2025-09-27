@@ -1,6 +1,6 @@
 👋 Hey, I’m Martim!
 
-🎓 Computer Science @ Instituto Superior Técnico (25') <br>
+🎓 Masters in Computer Science @ Instituto Superior Técnico (25') <br>
 ☁️ Cloud & Infrastructure Engineer | 🤖 AI/ML Enthusiast
 
 I’m currently growing in cloud engineering and infrastructure automation, with a strong focus on Azure, Terraform, and scalable system design.
