@@ -1,7 +1,7 @@
 👋 Hey, I’m Martim!
 
 🎓 Masters in Computer Science @ Instituto Superior Técnico (25') <br>
-☁️ Cloud & Infrastructure Engineer | 🤖 AI/ML Enthusiast
+☁️ Site Reliability Engineer 
 
 I’m currently growing in cloud engineering and infrastructure automation, with a strong focus on Azure, Terraform, and scalable system design.
 Alongside cloud, I’m exploring AI integration and internal tooling, building production-grade systems that solve real business problems.
