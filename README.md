@@ -1,23 +1,24 @@
-👋 Hey, I’m Martim!
+### 👋 Hey, I'm Martim
 
-🎓 Masters in Computer Science @ Instituto Superior Técnico (25') <br>
-☁️ Site Reliability Engineer 
+**Site Reliability Engineer** · MSc Computer Science, Instituto Superior Técnico ('25)
 
-I’m currently growing in cloud engineering and infrastructure automation, with a strong focus on Azure, Terraform, and scalable system design.
-Alongside cloud, I’m exploring AI integration and internal tooling, building production-grade systems that solve real business problems.
+I'm interested in what it takes to keep systems running at scale:
 
-🚀 What I’m Working On
+- 🌐 **Distributed systems**: replication, consistency, failure detection
+- 📈 **Running systems at scale**: reliability, performance, and keeping costs sane
+- 🔭 **Observability**: metrics, traces, profiles, and the pipelines that carry them
 
-☁️ Azure & Terraform Projects → automating secure, multi-environment deployments
+### 🧰 Stack
 
-🤖 AI/LLM Integrations → building internal tools leveraging large language models
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-🛡️ Tech Focus
-
-Cloud & Infrastructure (Azure, Terraform, CI/CD)
-
-AI & LLM Integration
-
-Security & Automation in Production Systems
-
-<p align="center"> <img src="https://img.shields.io/badge/focus-cloud%20engineering-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%2FML-active-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Terraform-infrastructure-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/automation-production-green?style=for-the-badge" /> </p>
+[LinkedIn](https://www.linkedin.com/in/martim-baltazar-31446a222/)
